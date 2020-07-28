@@ -1,22 +1,41 @@
-# Start Here!
-Welcome to Liftoff! We are excited to have you in this course.
+# Project Outline
+For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
 
-You are currently viewing the Liftoff Assignments Repository. This repo contains information about all of the assignments in the course, and will be how you will submit much of your work.
+## Assignment Description
+[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
-## Repo Explanation
-In Liftoff we are focusing on two things: your Personal Project, and Career Readiness skills. Throughout this course you will have assignments related to both of those core areas. Looking through this repo you can see Personal Project assignments, and Career Readiness assignments.
+## Submission Instructions
 
-Personal Project Assignments are flagged with P#, and Career Readiness assignments are flagged with C#, both are followed by the name of the assignment.
+### Overview
 
-You will use this repository in tandem with Canvas. All of your grades will be recorded in Canvas, however you will submit your work through this GitHub repository.
+My project is a web application that will allow the parents to manage their kids’ activities and schedule. It will allow the parents to create parent accounts and restricted kids’ accounts under parental control. Users can add, edit and delete an activity and generate reports based on kid, time, category.
 
-We are making you use GitHub for two important reasons:
-<ol>
-<li>You will get more practice with GitHub</li>
-<li>Your assignments are all stored in one place</li>
-</ol>
+The movitation I had for this application is the need for parents to manage their kids activities. Now we are experiencing a difficult time of covid, children have to stay at home and take multiple short online sessions each day. Each child has his/her own schedule which changes day by day, which makes it very difficult for the parent to manage all the activities. They want an efficient way to manage, view and track their kids’ activites.
 
-## Next Step
-Now that you know what this repo is for let's get it setup.
+### Features
 
-Click the [P1 - Assignment Repository Setup](./P1-Assignment_Repository_Setup/) repo for further instructions.
+* User Sign up: Users can create parent accounts and children’s sub-accounts. Parent accounts and children accounts have different level accesses. 
+* User Login: Users can login accounts by authentication.
+* Edit, Create, and Delete Activies: Users can create, edit, delete an event.
+* Import External Calendar: Users can import events from external source, such as google calendar.
+* View calendar for each child: Users can view each kid’s calendar separately. 
+* Create to-do list: Users can generate a to-do list by kid and time. 
+* View Activity Report for each child: Users can view each child’s activites by status and time.
+* Caculate Screen Time for each child: Users can check each child’s screen time per day or per week.
+
+### Technologies
+* C#
+* MySQL
+* Bootstrap
+* CSS
+
+### What I'll Have to Learn
+
+For creating parent accounts and child accounts, I will learn how to create an account with another account and how to set privileges for each account. 
+
+For the login functionality, I will learn how to authenticate an account.
+
+For importing external data, I will learn how to connect my application to another API and how to import and shape the data.
+
+### Project Tracker
+Link to your Trello board here
