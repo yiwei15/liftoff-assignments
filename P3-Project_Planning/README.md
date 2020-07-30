@@ -7,8 +7,9 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+- [Menu](./expense-tracker-menu.JPG)
 
-- [Create Account] (./Registration.pdf)
+- [Create Account](./Registration.pdf)
 - [Login] (https://github.com/yiwei15/liftoff-assignments/blob/master/P3-Project_Planning/Login.pdf)
 - [Add a Kid] (https://github.com/yiwei15/liftoff-assignments/blob/master/P3-Project_Planning/Add%20a%20kid.pdf)
 - [Add an Event] https://github.com/yiwei15/liftoff-assignments/blob/master/P3-Project_Planning/Add%20an%20Activity.pdf
