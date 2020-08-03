@@ -17,6 +17,10 @@ For this assignment, you'll create some initial plans for your project.
 - [Generate a To-Do-List](https://github.com/yiwei15/liftoff-assignments/blob/master/P3-Project_Planning/Generate%20a%20to-do-list.pdf)
 - [Genreate a Report](https://github.com/yiwei15/liftoff-assignments/blob/master/P3-Project_Planning/Generate%20a%20Report.pdf)
 
+### Wireframes
+- [ER Diagram](./ERDiagram.pdf)
+- [UML](./UML.pdf)
+
 ### User Stories
 - As a parent user, I want to create an account with username and password so that I can log in the application in the future
 - As a parent user, I want to create sub-accounts for my kids so that my kids can log into their under parent control
